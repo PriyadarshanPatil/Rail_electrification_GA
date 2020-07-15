@@ -1,0 +1,133 @@
+NodeJID,FAF4 Zone,Zone Name,zoneName_Long
+100369,11,Birmingham AL,"Birmingham-Hoover-Talladega, AL  CFS Area "
+100206,12,Mobile AL,"Mobile-Daphne-Fairhope, AL  CFS Area "
+100044,19,Rest of AL,Rest of AL
+8811,20,Alaska,Alaska
+400108,41,Phoenix AZ,"Tucson-Nogales, AZ  CFS Area "
+400026,42,Tucson AZ,"Phoenix-Mesa-Glendale, AZ  CFS Area "
+400005,49,Rest of AZ,Rest of AZ
+500051,50,Arkansas,Arkansas
+600146,61,Los Angeles CA,"Fresno-Madera, CA  CFS Area "
+600328,62,Sacramento CA,"Los Angeles-Long Beach, CA  CFS Area "
+600966,63,San Diego CA,"Sacramento-Roseville, CA  CFS Area "
+600206,64,San Francisco CA,"San Jose-San Francisco-Oakland, CA  CFS Area "
+600582,65,Fresno CA,"San Diego-Carlsbad-San Marcos, CA  CFS Area "
+600006,69,Rest of CA,Rest of CA
+800297,81,Denver CO,"Denver-Aurora, CO  CFS Area "
+800189,89,Rest of CO,Rest of CO
+900011,91,Hartford CT,"New York-Newark, NY-NJ-CT-PA  CFS Area (CT Part)"
+900110,92,New York NY-NJ-CT-PA (CT Part),"Hartford-West Hartford-East Hartford, CT  CFS Area "
+900057,99,Rest of CT,Rest of CT
+1000016,101,Philadelphia PA-NJ-DE-MD (DE Part),"Philadelphia-Reading-Camden, PA-NJ-DE-MD  CFS Area (DE Part)"
+1000008,109,Rest of DE,Rest of DE
+1100005,111,Washington DC-VA-MD-WV (DC Part),"Washington-Arlington-Alexandria, DC-VA-MD-WV  CFS Area (DC Part)"
+1200019,121,Jacksonville FL-GA  CFS Area (FL Part),"Jacksonville-St. Marys-Palatka, FL-GA  CFS Area (FL Part)"
+1200378,122,Miami FL,"Miami-Fort Lauderdale-Port St. Lucie, FL  CFS Area "
+1200047,123,Orlando FL,"Orlando-Deltona-Daytona Beach, FL  CFS Area "
+1200252,124,Tampa FL,"Tampa-St. Petersburg-Clearwater, FL  CFS Area "
+1200117,129,Rest of FL,Rest of FL
+1300279,131,Atlanta GA,"Atlanta-Athens-Clarke County-Sandy Springs, GA  CFS Area "
+1300358,132,Savannah GA,"Savannah-Hinesville-Statesboro, GA  CFS Area "
+1300026,139,Rest of GA,Rest of GA
+NA,151,Honolulu HI,"Urban Honolulu, HI  CFS Area "
+NA,159,Rest of HI,Rest of HI
+1600015,160,Idaho,Idaho
+1700799,171,Chicago IL-IN-WI (IL Part),"Chicago-Naperville, IL-IN-WI  CFS Area (IL Part)"
+1701370,172,St. Louis MO-IL (IL Part),"St. Louis-St. Charles-Farmington, MO-IL  CFS Area (IL Part)"
+1700235,179,Rest of IL,Rest of IL
+1800477,181,Chicago IL-IN-WI (IN Part),"Chicago-Naperville, IL-IN-WI  CFS Area (IN Part)"
+1800419,182,Indianapolis IN,"Fort Wayne-Huntington-Auburn, IN  CFS Area "
+1800073,183,Fort Wayne IN,"Indianapolis-Carmel-Muncie, IN  CFS Area "
+1800135,189,Rest of IN,Rest of IN
+1900443,190,Iowa,Iowa
+2000571,201,Kansas City MO-KS (KS Part),"Kansas City-Overland Park-Kansas City, MO-KS  CFS Area (KS Part)"
+2000304,202,Wichita KS,"Wichita-Arkansas City-Winfield, KS  CFS Area "
+2000133,209,Rest of KS,Rest of KS
+2100259,211,Cincinnati OH-KY-IN (KY Part),"Cincinnati-Wilmington-Maysville, OH-KY-IN  CFS Area (KY Part)"
+2100278,212,Louisville KY-IN (KY Part),"Louisville/Jefferson County-Elizabethtown-Madison, KY-IN  CFS Area (KY Part)"
+2100048,219,Rest of KY,Rest of KY
+2200119,221,Baton Rouge LA,"New Orleans-Metairie-Hammond, LA-MS  CFS Area (LA Part)"
+2200026,222,Lake Charles LA,"Baton Rouge, LA  CFS Area "
+2200103,223,New Orleans LA-MS (LA Part),"Lake Charles, LA  CFS Area "
+2200200,229,Rest of LA,Rest of LA
+2300030,230,Maine,Maine
+2400078,241,Baltimore MD,"Baltimore-Columbia-Towson, MD  CFS Area "
+2400067,242,Washington DC-VA-MD-WV (MD Part),"Washington-Arlington-Alexandria, DC-VA-MD-WV  CFS Area (MD Part)"
+2400111,249,Rest of MD,Rest of MD
+2500093,251,Boston MA-RI-NH-CT (MA Part),"Boston-Worcester-Providence, MA-RI-NH-CT  CFS Area (MA Part)"
+2500064,259,Rest of MA,Rest of MA
+2600083,261,Detroit MI,"Detroit-Warren-Ann Arbor, MI  CFS Area "
+2600152,262,Grand Rapids MI,"Grand Rapids-Wyoming-Muskegon, MI  CFS Area "
+2600597,269,Rest of MI,Rest of MI
+2700280,271,Minneapolis-St. Paul MN-WI (MN Part),"Minneapolis-St. Paul, MN-WI  CFS Area (MN Part)"
+2700125,279,Rest of MN,Rest of MN
+2800043,280,Mississippi,Mississippi
+2900115,291,Kansas City MO-KS (MO Part),"Kansas City-Overland Park-Kansas City, MO-KS  CFS Area (MO Part)"
+2900197,292,St. Louis MO-IL (MO Part),"St. Louis-St. Charles-Farmington, MO-IL  CFS Area (MO Part)"
+2900290,299,Rest of MO,Rest of MO
+3000203,300,Montana,Montana
+3100267,311,Omaha NE-IA (NE Part),"Omaha-Council Bluffs-Fremont, NE-IA  CFS Area (NE Part)"
+3100100,319,Rest of NE,Rest of NE
+3200050,321,Las Vegas NV-AZ (NV Part),"Las Vegas-Henderson, NV-AZ  CFS Area (NV Part)"
+3200119,329,Rest of NV,Rest of NV
+3300009,331,Boston MA-RI-NH-CT (NH Part),"Boston-Worcester-Providence, MA-RI-NH-CT  CFS Area (NH Part)"
+3300022,339,Rest of NH,Rest of NH
+3400183,341,New York NY-NJ-CT-PA (NJ Part),"New York-Newark, NY-NJ-CT-PA  CFS Area (NJ Part)"
+3400003,342,Philadelphia PA-NJ-DE-MD (NJ Part),"Philadelphia-Reading-Camden, PA-NJ-DE-MD  CFS Area (NJ Part)"
+3500060,350,New Mexico,New Mexico
+3600053,361,Albany NY  CFS Area,"Albany-Schenectady, NY  CFS Area "
+3600304,362,Buffalo NY  CFS Area,"Buffalo-Cheektowaga, NY  CFS Area "
+3600406,363,New York NY-NJ-CT-PA (NY Part),"New York-Newark, NY-NJ-CT-PA  CFS Area (NY Part)"
+3600202,364,Rochester NY,"Rochester-Batavia-Seneca Falls, NY  CFS Area "
+3600769,369,Rest of NY,Rest of NY
+3700001,371,Charlotte NC-SC (NC Part),"Charlotte-Concord, NC-SC  CFS Area  (NC Part)"
+3700029,372,Greensboro--Winston-Salem--High Point NC,"Greensboro--Winston-Salem--High Point, NC  CFS Area "
+3700016,373,Raleigh-Durham NC,"Raleigh-Durham-Chapel Hill, NC  CFS Area "
+3700006,379,Rest of NC,Rest of NC
+3800153,380,North Dakota,North Dakota
+3900290,391,Cincinnati OH-KY-IN (OH Part),"Cincinnati-Wilmington-Maysville, OH-KY-IN  CFS Area (OH Part)"
+3900585,392,Cleveland OH,"Cleveland-Akron-Canton, OH  CFS Area "
+3900514,393,Columbus OH,"Columbus-Marion-Zanesville, OH  CFS Area "
+3900870,394,Dayton OH,"Dayton-Springfield-Sidney, OH  CFS Area "
+3900952,399,Rest of OH,Rest of OH
+4000033,401,Oklahoma City OK,"Oklahoma City-Shawnee, OK  CFS Area "
+4000036,402,Tulsa OK,"Tulsa-Muskogee-Bartlesville, OK  CFS Area "
+4000074,409,Rest of OK,Rest of OK
+4100167,411,Portland OR-WA (OR Part),"Portland-Vancouver-Salem, OR-WA  CFS Area (OR Part)"
+4100008,419,Rest of OR,Rest of OR
+4200541,421,Philadelphia PA-NJ-DE-MD (PA Part),"New York-Newark, NY-NJ-CT-PA  CFS Area (PA Part)"
+4200094,422,Pittsburgh PA-OH-WV (PA Part),"Philadelphia-Reading-Camden, PA-NJ-DE-MD  CFS Area (PA Part)"
+4200593,423,New York NY-NJ-CT-PA (PA Part),"Pittsburgh-New Castle-Weirton, PA-OH-WV  CFS Area (PA Part)"
+4200664,429,Rest of PA,Rest of PA
+4400001,441,Boston MA-RI-NH-CT (RI Part),"Boston-Worcester-Providence, MA-RI-NH-CT  CFS Area (RI Part)"
+4500321,451,Charleston SC,"Greenville-Spartanburg-Anderson, SC  CFS Area "
+4500183,452,Greenville SC,"Charleston-North Charleston-Summerville, SC  CFS Area "
+4500264,459,Rest of SC,Rest of SC
+4600084,460,South Dakota,South Dakota
+4700133,471,Memphis TN-MS-AR (TN Part),"Knoxville-Morristown-Sevierville, TN  CFS Area "
+4700005,472,Nashville TN,"Memphis, TN-MS-AR  CFS Area (TN Part)"
+4700026,473,Knoxville TN,"Nashville-Davidson--Murfreesboro, TN  CFS Area "
+4700273,479,Rest of TN,Rest of TN
+4801135,481,Austin TX,"Corpus Christi-Kingsville-Alice, TX  CFS Area "
+4800056,482,Beaumont TX,"Dallas-Fort Worth, TX-OK  CFS Area (TX Part)"
+4800749,483,Corpus Christi TX,"El Paso-Las Cruces, TX-NM  CFS Area (TX Part)"
+4800131,484,Dallas-Fort Worth TX-OK (TX Part),"Houston-The Woodlands, TX  CFS Area "
+4800234,485,El Paso TX-NM (TX Part),"Austin-Round Rock, TX  CFS Area "
+4800153,486,Houston TX,"Beaumont-Port Arthur, TX  CFS Area "
+4800119,487,Laredo TX,"Laredo, TX   CFS Area "
+4800213,488,San Antonio TX,"San Antonio-New Braunfels, TX  CFS Area "
+4800176,489,Rest of TX,Rest of TX
+4900183,491,Salt Lake City UT,"Salt Lake City-Provo-Orem, UT  CFS Area "
+4900084,499,Rest of UT,Rest of UT
+5000010,500,Vermont,Vermont
+5100093,511,Richmond VA,"Virginia Beach-Norfolk, VA-NC  CFS Area (VA Part)"
+5100081,512,Virginia Beach-Norfolk VA-NC (VA Part),"Richmond, VA  CFS Area "
+5100450,513,Washington DC-VA-MD-WV (VA Part),"Washington-Arlington-Alexandria, DC-VA-MD-WV  CFS Area (VA Part)"
+5100408,519,Rest of VA,Rest of VA
+5300598,531,Seattle WA,"Portland-Vancouver-Salem, OR-WA  CFS Area (WA Part)"
+5300198,532,Portland OR-WA (WA Part),"Seattle-Tacoma, WA  CFS Area "
+5300215,539,Rest of WA,Rest of WA
+5400246,540,West Virginia,West Virginia
+5500121,551,Milwaukee WI,"Milwaukee-Racine-Waukesha, WI  CFS Area "
+5500039,559,Rest of WI,Rest of WI
+5600082,560,Wyoming,Wyoming
